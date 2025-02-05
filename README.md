@@ -125,9 +125,9 @@ Handles device and client WebSocket connections.
 
 ## Running the Application
 
-Run using Uvicorn:
+
 ```bash
-uvicorn main:app --host 0.0.0.0 --port 8000
+python3 newpick.py
 ```
 
 ---
